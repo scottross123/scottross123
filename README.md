@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-I'm Scott. I code in mostly TypeScript, Java, and Python.
+I'm Scott. I work in mostly TypeScript, Java, and Python.
 
 <!--
 **scottross123/scottross123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
